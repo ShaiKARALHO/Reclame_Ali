@@ -4,6 +4,8 @@
 }
 
 .botao{
+    display: block;
+    justify-content: center;
 
 }
 
