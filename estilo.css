@@ -1,17 +1,6 @@
-.titulo{
-    display: block;
-    text-align: center;
-}
+@charset (UTF-8);
 
-.botao{
-    display: block;
-    justify-content: center;
-
-}
-
-.dedo-1{
-    height: 414px;
-    width: 668px;
-
-
+header{
+    background-color: #D9F0BD;
+    margin: 0px;
 }
